@@ -9,3 +9,10 @@ The purpose of analysing the city_data and ride_data was to determine key metric
 - Average fare per driver
       
 The assingment also asks us to find the total weekly fares for each region type in the form of a line graph. We are also expected to undrstand the data and explain it.
+
+##Results
+![pyber_summary_df](analysis/pyber_summary_df.png)
+
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
+
+##Summary
