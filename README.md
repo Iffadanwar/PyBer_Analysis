@@ -7,4 +7,5 @@ The purpose of analysing the city_data and ride_data was to determine key metric
       - Total fares per region type
       - Average fares per ride
       - Average fare per driver
+      
 The assingment also asks us to find the total weekly fares for each region type in the form of a line graph. We are also expected to undrstand the data and explain it.
