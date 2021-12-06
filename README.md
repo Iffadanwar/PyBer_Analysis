@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
+
 The purpose of analysing the city_data and ride_data was to determine key metrics that allow a ride-sharing company, PyBer which is run by V. Isualize, to compare rural, suburban, and urban areas with each other. The assignment specifically directs us to find and place in a summary date frame the following metrics:
 - Total Rides in the given data set
 - Total drivers and drivers per region type
@@ -10,7 +11,8 @@ The purpose of analysing the city_data and ride_data was to determine key metric
       
 The assignment also asks us to find the total weekly fares for each region type in the form of a line graph. We are also expected to understand the data and come up with 3 recommendations to improve the company pay structure.
 
-##Results
+## Results
+
 After creating the Pyber summary Data Frame, the following differences and similarities were noticed:
 - Urban areas have a vast majority of total rides ordered with 1,625 total rides while rural and suburban areas only have 750 rides combined.
 - Urban areas have the most amount of drivers with 2,405 on the street. Rural and suburban drivers only have 568 drivers combined.
@@ -27,7 +29,8 @@ The "Total Fare by City Type" graph shows the weekly revenue throughout January 
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
-##Summary
+## Summary
+
 Using the data extracted from the data sets provided I was able to come up with 3 recommendations that aim for a more uniform pay structure for drivers as well as increasing riders and drivers in rural and suburban areas.
 
 1. The vast difference between the income per ride for urban drivers and rural drivers can pull drivers towards the urban areas to either or transfer to other ride-sharing services. Adopting a per-mile payment system as well as a flat bonus per ride could help equalise the pay disparity. The flat bonus should be higher in rural areas as they have fewer riders.
